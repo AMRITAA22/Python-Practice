@@ -1,0 +1,7 @@
+print("amrita2022".isalnum())
+print("amrita2023".isalpha())
+print("amrita2024".isdigit())
+print("amrita2025".islower())
+print("AMRITA".isupper())
+print(" My Name".istitle())
+print(" My Email Address".isspace())
